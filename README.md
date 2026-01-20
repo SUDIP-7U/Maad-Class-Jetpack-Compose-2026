@@ -1,18 +1,5 @@
 # Jetpack Compose `Text` – Complete Guide with Properties & Previews
 
-> **File:** `jetpack-compose-text-complete-guide.md`
->
-> A production-ready Markdown reference for Android developers using Jetpack Compose.
-
----
-
-## 1. Basic Text Usage
-
-```kotlin
-Text(text = "Hello Jetpack Compose")
-```
-
----
 
 ## 2. Text Styling (Color, Size, Weight, Style)
 
