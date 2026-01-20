@@ -50,14 +50,6 @@ Text("Strikethrough", textDecoration = TextDecoration.LineThrough)
 
 ---
 
-## 6. Font Family
-
-```kotlin
-Text(
-    text = "Serif Font",
-    fontFamily = FontFamily.Serif
-)
-```
 
 ### Custom Font
 
